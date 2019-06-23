@@ -3,8 +3,7 @@
 This repository is an implemantation of siamese network using one shot learning which can be found at Deeplearning.ai on coursera
  The implementation is inspired by two path breaking papers on facial recognition using deep convoluted neural network, namely FaceNet and DeepFace. 
  I have used pre trained model Keras-OpenFace which is an open source Keras implementation of the OpenFace (Originally Torch implemented) 
- The pretrained model that I have used is by Victor Sy Wang's implementation and was loaded using his code.[click here](https://github.com/iwantooxxoox/Keras-OpenFace)
-
+ 
 # For beginners
 - [ ] Know about a to z about deep learning here [here](https://www.coursera.org/specializations/deep-learning)
 - [ ] Watch the Convolutional Networks Specialization on Coursera, found [here](https://www.coursera.org/learn/convolutional-neural-networks). 
